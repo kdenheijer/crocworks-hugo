@@ -16,9 +16,14 @@
 		<h1>{{ .title | markdownify }}</h1>
 		<p>{{ .content | markdownify }}</p>
 		{{ if .button.enable }}
-		{{ with .button }}
-		<a href="{{ .link }}" class="btn btn-transparent page-scroll">{{ .label }}</a>
+			{{ with .button }}
+			<a href="{{ .link }}" class="btn btn-transparent page-scroll">{{ .label }}</a>
+			{{ end }}
 		{{ end }}
+		{{ if .button2.enable }}
+			{{ with .button2 }}
+			<a href="{{ .link }}" class="btn btn-transparent page-scroll">{{ .label }}</a>
+			{{ end }}
 		{{ end }}
 	</div>
 </section>
