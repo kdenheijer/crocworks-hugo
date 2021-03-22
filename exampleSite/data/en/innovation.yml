@@ -1,9 +1,9 @@
 ################################# Service #################################
-service:
+innovation:
   enable : true
-  title : Offshore
-  identifier: offshore
-  service_item :
+  title : Innovation
+  identifier: innovations
+  innovation_item :
     # service item loop
     - name : WordPress Theme
       icon : ti-world # themify icon pack : https://themify.me/themify-icons
