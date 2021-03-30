@@ -1,8 +1,9 @@
 ############################### Banner ################################
 banner:
   enable : true
-  bg_image_webp : "images/backgrounds/image-coastal-wind-park-sunset-stormy-sky.webp"
-  bg_image : "images/backgrounds/image-coastal-wind-park-sunset-stormy-sky.jpg"
+  bg_image_webp : "images/backgrounds/offshore-wind-park-daybreak.webp"
+  bg_image : "images/backgrounds/offshore-wind-park-daybreak.jpg"
+  logo_img: "images/crocworks.png"
   icon : "" # themify icon pack : https://themify.me/themify-icons
   title : "Crocworks"
   content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit, excepturi. At recusandae sit perferendis autem,iste tempora nostrum numquam sapiente!"
