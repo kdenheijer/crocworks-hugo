@@ -1,27 +1,27 @@
 ############################# feature ###################################
 feature:
   enable : true
-  image : images/about/tim.jpg
-  image_webp : images/about/tim.webp
-  title : Crocworks - Tim van Keulen.
-  content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam tempora itaque, autem dolores culpa cum mollitia voluptate nesciunt voluptatibus quasi."
+  image : images/about/crocworks_dna.jpg
+  image_webp : images/about/crocworks_dna.webp
+  title : Pillars.
+  content: CrocWorks naming origins from the Crocodilia, the taxonomy order where crocodiles belong to. They first appeared 95 million years ago and evolved and adapted themselves to nowadays a predator on top of the food chain; ruling fresh waters, salt waters and many shores around our globe! Crocodiles like all cold blooded species are known for their energy efficient metabolism. Crocodiles developed throughout those million years of evolution a perfect set of sensors, making them  able to perfectly hear, see and feel subsea and  in air. It makes them highly effective and efficient hunters on top of the food chain.
   feature_item :
       # feature item loop
-    - title : Moving forward
-      icon : ti-control-forward # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+    - title : Passionate
+      icon : ti-heart # themify icon pack : https://themify.me/themify-icons
+      content : Crocs truly love a challenge, we are passionate and dedicated in making our world more efficient and greener.
 
       # feature item loop
-    - title : Happy when you are
-      icon : ti-face-smile # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+    - title : Visionary
+      icon : ti-search # themify icon pack : https://themify.me/themify-icons
+      content : Translate occurrences to causes and solutions. Sharp sensing makes crocs the perfect predators for the right solutions.
 
       # feature item loop
-    - title : Full package
-      icon : ti-package # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+    - title : Innovation
+      icon : ti-light-bulb # themify icon pack : https://themify.me/themify-icons
+      content : With 95 million years of experience, crocs use their experience and knowledge. Due to their adaptative skills, crocs experience problems and challenges as possibilities and develop these into opportunities
 
       # feature item loop
-    - title : Custom build to your request
-      icon : ti-palette # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+    - title : Efficient
+      icon : ti-target # themify icon pack : https://themify.me/themify-icons
+      content : Do not waste resources unnecessarily. Crocs are used to working efficiently,  providing solutions where the necessary resources over the life cycle are efficiently (re)used.

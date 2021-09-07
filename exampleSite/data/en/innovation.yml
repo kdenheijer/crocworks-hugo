@@ -1,6 +1,6 @@
 ################################# Service #################################
 innovation:
-  enable : true
+  enable : false
   title : Innovation
   identifier: innovations
   innovation_item :

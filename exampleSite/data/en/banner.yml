@@ -1,17 +1,17 @@
 ############################### Banner ################################
 banner:
   enable : true
-  bg_image_webp : "images/backgrounds/offshore-wind-park-daybreak.webp"
-  bg_image : "images/backgrounds/offshore-wind-park-daybreak.jpg"
-  logo_img: "images/crocworks.png"
+  bg_image_webp : "images/backgrounds/bg-header-crocworks.webp"
+  bg_image : "images/backgrounds/bg-header-crocworks.jpg"
+  logo_img: "images/logo.png"
   icon : "" # themify icon pack : https://themify.me/themify-icons
   title : "Crocworks"
-  content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit, excepturi. At recusandae sit perferendis autem,iste tempora nostrum numquam sapiente!"
+  content : "Build and develop the bridges in the energy transition in the offshore renewables industry!"
   button:
-    enable : true
+    enable : false
     label : "Offshore"
     link : "#offshore"
   button2:
-    enable : true
+    enable : false
     label : "Innovations"
     link : "#innovations"

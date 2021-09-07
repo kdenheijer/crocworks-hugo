@@ -3,74 +3,158 @@ portfolio:
   enable : true
   title : Portfolio
   portfolio_item :
-    # portfolio item loop
-    - name : Tag Design
-      image : images/portfolio/portfolio-1.jpg
-      image_webp : images/portfolio/portfolio-1.webp
-      categories : ["design"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      link : "https://themefisher.com"
+    - name:
+      image: images/portfolio/2.jpg
+      image_webp: images/portfolio/2.webp
+      categories: [ "Cable installation" ]
+      content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
+      link: ""
 
-    # portfolio item loop
-    - name : Sound system
-      image : images/portfolio/portfolio-2.jpg
-      image_webp : images/portfolio/portfolio-2.webp
-      categories : ["development"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      link : ""
+    - name:
+      image: images/portfolio/3.jpg
+      image_webp: images/portfolio/3.webp
+      categories: [ "Burial and trenching" ]
+      content:
+      link: ""
 
-    # portfolio item loop
-    - name : Clock Product
-      image : images/portfolio/portfolio-3.jpg
-      image_webp : images/portfolio/portfolio-3.webp
-      categories : ["design", "development"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      link : "#"
+    - name:
+      image: images/portfolio/4.jpg
+      image_webp: images/portfolio/4.webp
+      categories: [ "Vessel design, audit and logistics" ]
+      content:
+      link: ""
 
-    # portfolio item loop
-    - name : Bottol Label
-      image : images/portfolio/portfolio-4.jpg
-      image_webp : images/portfolio/portfolio-4.webp
-      categories : ["photography", "development"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      link : "#"
+    - name:
+      image: images/portfolio/5.jpg
+      image_webp: images/portfolio/5.webp
+      categories: [ "Substation design, interface and installation" ]
+      content:
+      link: ""
 
-    # portfolio item loop
-    - name : Shopping Bag
-      image : images/portfolio/portfolio-5.jpg
-      image_webp : images/portfolio/portfolio-5.webp
-      categories : ["design"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      link : "#"
+    - name:
+      image: images/portfolio/6.jpg
+      image_webp: images/portfolio/6.webp
+      categories: [ "Cable installation" ]
+      content:
+      link: ""
 
-    # portfolio item loop
-    - name : Tag Design
-      image : images/portfolio/portfolio-6.jpg
-      image_webp : images/portfolio/portfolio-6.webp
-      categories : ["photography"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      link : "#"
+    - name:
+      image: images/portfolio/7.jpg
+      image_webp: images/portfolio/7.webp
+      categories: [ "Substation design, interface and installation" ]
+      content:
+      link: ""
 
-    # portfolio item loop
-    - name : Business Card
-      image : images/portfolio/portfolio-7.jpg
-      image_webp : images/portfolio/portfolio-7.webp
-      categories : ["development"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      link : "#"
+    - name:
+      image: images/portfolio/8.jpg
+      image_webp: images/portfolio/8.webp
+      categories: [ "Energy islands" ]
+      content:
+      link: ""
 
-    # portfolio item loop
-    - name : Stationary Design
-      image : images/portfolio/portfolio-8.jpg
-      image_webp : images/portfolio/portfolio-8.webp
-      categories : ["design", "development"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      link : "#"
+    - name:
+      image: images/portfolio/9.jpg
+      image_webp: images/portfolio/9.webp
+      categories: [ "Contingency control and works" ]
+      content:
+      link: ""
 
-    # portfolio item loop
-    - name : Tag Design
-      image : images/portfolio/portfolio-2.jpg
-      image_webp : images/portfolio/portfolio-2.webp
-      categories : ["design", "photography"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      link : "#"
+    - name:
+      image: images/portfolio/11.jpg
+      image_webp: images/portfolio/11.webp
+      categories: [ "Vessel design, audit and logistics" ]
+      content:
+      link: ""
+
+    - name:
+      image: images/portfolio/12.jpg
+      image_webp: images/portfolio/12.webp
+      categories: [ "Substation design, interface and installation" ]
+      content:
+      link: ""
+
+    - name:
+      image: images/portfolio/13.jpg
+      image_webp: images/portfolio/13.webp
+      categories: [ "Burial and trenching" ]
+      content:
+      link: ""
+
+    - name:
+      image: images/portfolio/14.jpg
+      image_webp: images/portfolio/14.webp
+      categories: [ "Cable installation" ]
+      content:
+      link: ""
+
+# portfolio item loop
+#    - name :
+#      image : images/portfolio/portfolio-1.jpg
+#      image_webp : images/portfolio/portfolio-1.webp
+#      categories : ["design"]
+#      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+#      link : "https://themefisher.com"
+#
+#     portfolio item loop
+#    - name : Sound system
+#      image : images/portfolio/portfolio-2.jpg
+#      image_webp : images/portfolio/portfolio-2.webp
+#      categories : ["development"]
+#      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+#      link : ""
+
+#     portfolio item loop
+#    - name : Clock Product
+#      image : images/portfolio/portfolio-3.jpg
+#      image_webp : images/portfolio/portfolio-3.webp
+#      categories : ["design", "development"]
+#      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+#      link : "#"
+#
+#     portfolio item loop
+#    - name : Bottol Label
+#      image : images/portfolio/portfolio-4.jpg
+#      image_webp : images/portfolio/portfolio-4.webp
+#      categories : ["photography", "development"]
+#      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+#      link : "#"
+#
+#     portfolio item loop
+#    - name : Shopping Bag
+#      image : images/portfolio/portfolio-5.jpg
+#      image_webp : images/portfolio/portfolio-5.webp
+#      categories : ["design"]
+#      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+#      link : "#"
+#
+#     portfolio item loop
+#    - name : Tag Design
+#      image : images/portfolio/portfolio-6.jpg
+#      image_webp : images/portfolio/portfolio-6.webp
+#      categories : ["photography"]
+#      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+#      link : "#"
+#
+#     portfolio item loop
+#    - name : Business Card
+#      image : images/portfolio/portfolio-7.jpg
+#      image_webp : images/portfolio/portfolio-7.webp
+#      categories : ["development"]
+#      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+#      link : "#"
+#
+#     portfolio item loop
+#    - name : Stationary Design
+#      image : images/portfolio/portfolio-8.jpg
+#      image_webp : images/portfolio/portfolio-8.webp
+#      categories : ["design", "development"]
+#      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+#      link : "#"
+
+#     portfolio item loop
+#    - name : Tag Design
+#      image : images/portfolio/portfolio-2.jpg
+#      image_webp : images/portfolio/portfolio-2.webp
+#      categories : ["design", "photography"]
+#      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+#      link : "#"
