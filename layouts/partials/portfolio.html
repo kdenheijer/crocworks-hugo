@@ -17,6 +17,59 @@
 			</div>
 		</div>
 		<div class="row">
+			<div style="display: flex; flex-wrap: wrap;">
+				<div class="content text-center">
+					<p>{{ .content | markdownify }}</p>
+				</div>
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-xl-12">
+				<div class="sub-title text-center">
+					<h3>The services we can offer are</h3>
+				</div>
+			</div>
+		</div>
+		<div class="row justify-content-center">
+			<div class="col-md-6 border-box-content">
+				<div class="mb-4">
+					<h4 class="media-heading text-center" style="color: var(--dark-green);">Development</h4>
+					<p>{{ .development | markdownify }}</p>
+				</div>
+			</div>
+			<div class="col-md-6 border-box-content">
+				<div class="mb-4">
+					<h4 class="media-heading text-center" style="color: var(--dark-green);">Basic, and detailed Installation Engineering</h4>
+					<p>{{ .installed_engineering | markdownify }}</p>
+				</div>
+			</div>
+			<div class="col-md-6 border-box-content">
+				<div class="mb-4">
+					<h4 class="media-heading text-center" style="color: var(--dark-green);">Construction</h4>
+					<p>{{ .construction | markdownify }}</p>
+				</div>
+			</div>
+			<div class="col-md-6 border-box-content">
+				<div class="mb-4">
+					<h4 class="media-heading text-center" style="color: var(--dark-green);">Installation</h4>
+					<p>{{ .installation | markdownify }}</p>
+				</div>
+			</div>
+			<div class="col-md-6 border-box-content">
+				<div class="mb-4">
+					<h4 class="media-heading text-center" style="color: var(--dark-green);">Operation & Maintenance</h4>
+					<p>{{ .operations | markdownify }}</p>
+				</div>
+			</div>
+			<div class="col-md-6 border-box-content">
+				<div class="mb-4">
+					<h4 class="media-heading text-center" style="color: var(--dark-green);">Decommissioning & Reuse</h4>
+					<p>{{ .decommissioning | markdownify }}</p>
+				</div>
+			</div>
+		</div>
+
+		<div class="row">
 			<div class="col-lg-12">
 				<div class="btn-group portfolio-filter btn-group-toggle justify-content-center d-flex flex-wrap"
 					data-toggle="buttons">

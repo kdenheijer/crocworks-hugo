@@ -3,19 +3,18 @@ contact:
   enable : true
   title : Contact Us
   subtitle : Contact Details
-  content : Tim van Keulen
+  content : Crocworks
 
   # Contact details
   contact_list:
 #    - icon : ti-location-pin # themify icon pack : https://themify.me/themify-icons
 #      info : "Khaja Road, Bayzid, Chittagong, Bangladesh"
 #
-    - icon : ti-mobile # themify icon pack : https://themify.me/themify-icons
-      info : "Phone: +31 (0)6 42091557"
+#    - icon : ti-mobile # themify icon pack : https://themify.me/themify-icons
+#      info : "Phone: +31 (0)6 42091557"
       
-    - icon : ti-email # themify icon pack : https://themify.me/themify-icons
-      info : "Email: info@crocworks.eu"
-
+#    - icon : ti-email # themify icon pack : https://themify.me/themify-icons
+#      info : "Email: info@crocworks.eu"
 
   # Contact form
   contact_form:

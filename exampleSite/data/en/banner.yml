@@ -6,7 +6,7 @@ banner:
   logo_img: "images/logo.png"
   icon : "" # themify icon pack : https://themify.me/themify-icons
   title : "Crocworks"
-  content : "Build and develop the bridges in the energy transition in the offshore renewables industry!"
+  content : "Build and develop the bridges in the transition in the offshore renewables industry!"
   button:
     enable : false
     label : "Offshore"

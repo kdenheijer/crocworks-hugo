@@ -2,12 +2,67 @@
 portfolio:
   enable : true
   title : Portfolio
+  development: |
+    * Windfarm lay-out design
+    * Procurement strategies
+    * Design, manufacturing, installation and trenching strategies and philosophies
+    * Due diligence related to technology, design and installation technologies
+    * Operation and Maintenance (O&M) strategies and philosophies
+    * Decommissioning and reuse strategies and philosophies
+    * Interface engineering & management related to the Balance of Plant of the windfarm
+    * Setting up the requirements resulting in the most cost-effective offers
+    * Cost, time, technology and method reviews from received offerings
+    * Integration of battery and green hydrogen production, transport and storage solutions
+    * Network integration solutions for interconnection and/or reduce emissions at Oil & Gas assets
+    * Techno-economic analyses
+    * Feasibility studies
+    * Interim project management and engineering
+  installed_engineering: |
+    * Interim project management and engineering
+    * Contract management support and advise
+    * Due diligence related to technology, design and installation technologies
+    * Design and installation reviews
+    * Advise and expertise for both developers and contractors to optimize results during these phases
+    * Cable lay-out detailing in a windfarm and from windfarm to substation
+    * Logistical, design, installation and quality plans and procedures
+    * Risk assessments related to total scopes and specifics
+    * Interface engineering & management related to the Balance of Plant of the windfarm (jackets, monopiles, transition pieces, substations and scour protection)
+    * Vessel and tools selection
+    * Cable and pipeline crossing designs and agreements
+  construction: |
+    * Inspection & audits at hardware suppliers (cable and all related cable accessories)
+    * Interface engineering & management related to the Balance of Plant of the windfarm and installation scope
+    * Cable and accessory package manager
+  installation: |
+    * Inspection & audits
+    * On- and offshore support in starting phases of the project (the most stressful ones)
+    * Incident management
+    * Change and contingency management
+  operations: |
+    * Product and process developments
+    * Improvement strategies
+    * Design and implement of changes
+  decommissioning: |
+    * Any of the above activities
+
+  content: |
+    CrocWorks  have provided services and solutions to the industry for more than 13 years in:
+
+    - Offshore design and installation of high voltage power and communication cables, product & process development of power and communication cables related to offshore wind and the integration for other renewables
+    - (Offshore) green hydrogen production, transport, (subsea) storage and integration
+    - Start, form and implement an innovation strategy, plan and culture in a corporate company.
+    - CO2 capture, transport and storage & utilisation from Steam Methane Reformers (SMR), gas turbines and pulverized coal power plants.
+
+    **Offshore Renewables**
+
+    CrocWorks originatess from the experience and knowledge of its founder, Tim van Keulen. A truthful believer in offshore renewables and with ingredients of passion,a can-do drive, enthusiasm and ambition CrocWorks will offer you the best in class solutions being most cost-effective in the most sustainable way over its life cycle."
+
   portfolio_item :
     - name:
       image: images/portfolio/2.jpg
       image_webp: images/portfolio/2.webp
       categories: [ "Cable installation" ]
-      content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
+      content:
       link: ""
 
     - name:

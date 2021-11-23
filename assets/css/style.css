@@ -125,6 +125,11 @@ a:hover {
   border: 1px solid #4e595f;
 }
 
+.border-box-content {
+  border: 1px solid var(--olive-green);
+  padding: 1rem;
+}
+
 .btn-transparent:hover,
 .btn-transparent:focus {
   background-color: var(--light-green);
@@ -157,15 +162,15 @@ a:hover {
 }
 
 .sub-title {
-  padding: 0 0 50px;
+  padding: 0 0 25px;
 }
 
 .sub-title>h3 {
-  border-left: 3px solid #ddd;
-  border-right: 3px solid #ddd;
+  /*border-left: 3px solid #ddd;*/
+  /*border-right: 3px solid #ddd;*/
   display: inline-block;
   padding: 5px 25px;
-  text-transform: uppercase;
+  /*text-transform: uppercase;*/
 }
 
 .btn.active:focus,
@@ -208,6 +213,11 @@ a:hover {
 
 figure {
   margin: 0;
+}
+
+ul {
+  text-align: center;
+  list-style-position: inside;
 }
 
 a {
@@ -665,6 +675,11 @@ a:hover {
 }
 
 .about-2 .content-block .media h4 {
+  font-size: 16px;
+  font-weight: 600;
+}
+
+h4 {
   font-size: 16px;
   font-weight: 600;
 }

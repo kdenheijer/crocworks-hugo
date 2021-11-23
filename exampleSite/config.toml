@@ -1,4 +1,4 @@
-baseURL = "https://crockworks.eu"
+baseURL = "https://crocworks.eu"
 disableLanguages = []
 disqusShortname = ""
 paginate = "6"
@@ -23,11 +23,11 @@ name = "Pillars"
 pre = "#"
 url = "feature"
 weight = 2
-# [[Languages.en.menu.main]]
-# name = "innovations"
-# pre = "#"
-# url = "innovations"
-# weight = 3
+[[Languages.en.menu.main]]
+name = "Our Mission"
+pre = "#"
+url = "mission"
+weight = 3
 [[Languages.en.menu.main]]
 name = "Portfolio"
 pre = "#"
@@ -81,8 +81,8 @@ weight = 7
 #url = "contact"
 #weight = 7
 [params]
-author = "Koen den Heijer"
-description = "Template for Crocworks"
+author = "Crocworks"
+description = "Devoted to renewables"
 google_analytics_id = ""
 logo = "images/logo.png"
 post_share = true
